@@ -12,6 +12,7 @@ body{
    display: flex;
    align-items: center;
    font-family: 'Times New Roman', Times, serif;
+   letter-spacing: 2px;
 }
 .navbar>img{
   display: none;
